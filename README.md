@@ -19,7 +19,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's sales per
 - **📊 Sales Summary:**  
   - Total Value (2024): 1.49M  
   - Previous Year (2023): 863.49K  
-  - 🚀 Growth: 72.94% YoY in the last 6 months
+  - 🚀 Growth: 72.94% YoY of 2023,2024 and 2025.
 
 - **🛍️ Top Products & Areas:**  
   - Identify top 5 high-value products and regions contributing most to revenue.
